@@ -7,8 +7,8 @@ venue: 'ACM CHI Conference on Human Factors in Computing Systems (CHI)'
 status: 'Under review'
 paperurl: 'https://arxiv.org/abs/2609.18060'
 citation: 'Shuning Zhang et al. (Yuanyang Qiu, third author). (2026). &quot; AI Peers Exert Social Influence on Human Dishonesty in Groups.&quot; arXiv:2609.18060. Under review at <i>ACM CHI</i>.'
+share: true
 ---
-[Read the preprint on arXiv](https://arxiv.org/abs/2609.18060)
 
 ## Abstract
 
