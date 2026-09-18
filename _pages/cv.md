@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV (PDF)](/files/Yuanyang_Qiu_CV_EN_20260824.pdf)
+[Download CV (PDF)](/files/Yuanyang_Qiu_CV_EN_20260918.pdf) · [下载中文简历 (PDF)](/files/Yuanyang_Qiu_CV_ZH_20260918.pdf)
 
 Education
 ======
