@@ -28,13 +28,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Legal Tech & AI Governance Researcher | LL.M. Candidate at CUPL"
   location         : "Beijing City"
-  employer         : "China University of Political Science and Law / Fordham University"
+  employer         : "China University of Political Science and Law"
   uri              : # yuanyang-qiu-79229839a
   email            : "yq12@fordham.edu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : https://openreview.net/profile?id=%7EYuanyang_Qiu2
+  arxiv            : https://arxiv.org/search/?searchtype=author&query=Yuanyang%20Qiu
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
