@@ -46,7 +46,7 @@ Publications
 
 **Accepted**
 
-  <ul>{% for post in site.publications reversed %}{% if post.status == "Accepted, not published" %}
+  <ul>{% for post in site.publications reversed %}{% if post.status == "Accepted" %}
     {% include archive-single-cv.html %}
   {% endif %}{% endfor %}</ul>
 
