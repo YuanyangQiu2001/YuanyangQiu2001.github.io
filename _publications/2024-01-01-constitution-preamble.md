@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2024-01-01-constitution-preamble
 date: 2024-01-01
 venue: 'Zhongnan Law Review, vol. 6 (in Chinese)'
+share: true
 ---
 **Status:** Accepted by *Zhongnan Law Review*; under the pre-publication political review.
 
