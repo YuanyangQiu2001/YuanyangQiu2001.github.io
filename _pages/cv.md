@@ -38,21 +38,21 @@ Education
 Publications
 ======
 
-**Published & Accepted**
+**Published**
 
   <ul>{% for post in site.publications reversed %}{% unless post.status %}
     {% include archive-single-cv.html %}
   {% endunless %}{% endfor %}</ul>
 
-**Under Review**
+**Accepted**
 
-  <ul>{% for post in site.publications reversed %}{% if post.status == "Under review" %}
+  <ul>{% for post in site.publications reversed %}{% if post.status == "Accepted, not published" %}
     {% include archive-single-cv.html %}
   {% endif %}{% endfor %}</ul>
 
-**Accepted, Not Published**
+**Under Review**
 
-  <ul>{% for post in site.publications reversed %}{% if post.status == "Accepted, not published" %}
+  <ul>{% for post in site.publications reversed %}{% if post.status == "Under review" %}
     {% include archive-single-cv.html %}
   {% endif %}{% endfor %}</ul>
 
@@ -66,12 +66,10 @@ Research experiences
 ======
 
 * **Research Assistant**, Institute for Network Sciences and Cyberspace, Tsinghua University, 2026.05 – Present
-  * *AI Deception Project (completed).* Worked on a two-phase online behavioral experiment (N = 640) testing whether AI agents in group chats can exert social influence on human dishonesty. Contributed to the design of a die-roll misreporting paradigm in which each participant's true outcome was visible to the whole group, and of the factorial conditions: Phase 1 varied the type (injunctive, descriptive, subjective) and direction (honest, dishonest) of norms delivered by an AI; Phase 2 varied whether peers were presented as humans or AI agents and how many of them misreported.
-  * Contributed to results figures and manuscript revision. The study finds that dishonest norms increase misreporting, that the increase appears as a threshold at the first dishonest peer rather than growing with each additional one, and that honest peers do not correspondingly reduce it. The resulting paper is under review at CHI (see Publications).
+  * *AI Deception Project(CHI 2027).* Worked on a two-phase online behavioral experiment testing whether AI agents in group chats can exert social influence on human dishonesty. Contributed to the design of a die-roll misreporting paradigm in which each participant's true outcome was visible to the whole group, and of the factorial conditions: Phase 1 varied the type and direction of norms delivered by an AI; Phase 2 varied whether peers were presented as humans or AI agents and how many of them misreported.
 
 * **Research Assistant**, Alibaba DAMO Academy, 2025.08 – 2026.01
-  * *PLawBench Project.* Co-designed a comprehensive rubric-based benchmark featuring over 12,500 metrics and 850 questions across 13 legal domains. Drafted the detailed evaluation rubric from scratch, while directly training and supervising a team of data annotators to ensure high-fidelity, consistent assessments. Through this standardized pipeline, managed the systematic evaluation of 10+ state-of-the-art LLMs to identify critical performance gaps in legal reasoning and drafting.
-  * *Court Simulation Project.* Co-architected an LLM-based multi-agent system designed to simulate authentic courtroom dynamics with specialized roles, including Judge, Lawyer, and Witness. Led the end-to-end data collection process by independently building a robust database sourced exclusively from complex Chinese and International Law moot court competition problems.
+  * *PLawBench Project (ACL 2026).* Built a benchmark grounded in how legal practitioners actually work, translating real workflows into three task families — public legal consultation, practical case analysis, and legal document generation — across 13 practice scenarios and 850 questions. Drafted the scoring rubrics from scratch so that answers are graded against concrete, checkable legal points rather than overall impression, producing roughly 12,500 rubric items. Ran the expert annotation side of the project: recruited and trained legally trained annotators, wrote the annotation guidelines, and adjudicated disagreements to keep scoring consistent across domains.
 
 * **Research Assistant**, Institute for Studies on AI and Law, Tsinghua University, 2025.08 – 2026.01
   * *Policy Translation.* Compiled technology law newsletters synthesizing legislative and regulatory developments; translated national standard contractual clauses for cross-border data entrustment between Chinese and English.
@@ -82,8 +80,7 @@ Service experiences
 
 * **Associate Chief Editor**, CUPL Law Review, 2025.05 – Present
   * *Publishing Management.* Oversee the full editorial cycle — soliciting manuscripts, coordinating double-blind peer review, editing, and production. Supervised the complete pipelines for 2025 Issue 2 and 2026 Issue 1, and serve as the journal's direct liaison with China Legal Publishing House from manuscript delivery through publication.
-  * *Digital Transformation.* Lead the journal's digitalization reform: assist CNKI in maintaining the journal's online portal, and in building a new online submission and peer-review system and an editorial office management system.
-  * *Event Setting.* Organized training workshops on AI-assisted academic writing for 50+ participants; led the journal's annual symposium and spearheaded networking initiatives with legal scholars and peer law reviews nationwide.
+   * *Administrative Operations.* Lead the journal's digitalization reform — working with CNKI to maintain the online portal and to build a new submission and peer-review system and an editorial office management system — and run its external programming, including AI-assisted academic writing workshops for 50+ participants, the annual symposium, and exchanges with legal scholars and peer law reviews nationwide.
 
 * **Teaching Assistant**, CUPL Summer School, 2023.06
   * Recorded student attendance and graded coursework assignments.
