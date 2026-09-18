@@ -1,10 +1,11 @@
 ---
-title: "On the Legal Characterization of the Use of News Works in Large Language Model Training"
+title: "On the Legal Nature of the Use of News Works in Large Language Model Training"
 collection: publications
 permalink: /publication/2026-09-02-news-works-llm-training
 date: 2026-09-02
 venue: 'Journalism & Communication Research (CSSCI) (in Chinese)'
 status: 'Under review'
+citation: 'Lu Zhang, Yuanyang Qiu. &quot;On the Legal Nature of the Use of News Works in Large Language Model Training&quot; Under review at <i>Journalism &amp; Communication Research</i> (CSSCI). (in Chinese)'
 ---
 
 ## Abstract
