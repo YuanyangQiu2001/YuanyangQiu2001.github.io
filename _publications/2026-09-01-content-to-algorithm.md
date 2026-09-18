@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/2026-09-01-content-to-algorithm
 date: 2026-09-01
 venue: 'Communication Law and Policy'
+status: 'Under review'
+citation: 'Yuanyang Qiu. &quot;From Content to Algorithm: Regulating Teenager Social Media Addiction Under the First Amendment.&quot; Under review at <i>Communication Law and Policy</i>. Presented at AEJMC 2026.'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6491978'
 ---
 
