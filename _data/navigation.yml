@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "简历"
-    url: /cv-zh/
+ # - title: "简历"
+ #  url: /cv-zh/
     
   # - title: "CV"
   #   url: /cv-json/
